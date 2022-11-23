@@ -5,6 +5,7 @@ RENCANA KONTEN FRANSISKUS
  *Framework Javascript
   ^ Vue
   ^ React
+  ^ Angular
 -Struktur Data Dasar
 -Php Frameworks
   ^laravel
