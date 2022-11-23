@@ -3,7 +3,11 @@ RENCANA KONTEN FRANSISKUS
 -Javascript
  *ES6
  *Framework Javascript
+  ^ Vue
+  ^ React
 -Struktur Data Dasar
 -Php Frameworks
+  ^laravel
 -Interview
 -Vlogs
+-Python
